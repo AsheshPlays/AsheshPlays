@@ -6,6 +6,7 @@
 - 🔭 I’m currently working on **Tantra Genesis M**
 
 - 🌱 I’m currently learning **C#**
+- 🐍 I love **Python**
 
 - 📫 How to reach me **ashesh.plays@gmail.com**
 
