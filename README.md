@@ -25,7 +25,7 @@
 ###
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=AsheshPlays&theme=radical&column=7" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=AsheshPlays&theme=radical&column=7&exclude=PullRequest,Reviews" alt="GitHub Trophies" />
 </div>
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/assets/images/line.gif" width="100%">
