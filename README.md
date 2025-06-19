@@ -28,7 +28,7 @@
 </div>
 
 ###
-iv align="center">
+<div align="center">
   <img
     src="https://komarev.com/ghpvc/?username=AsheshPlays&style=flat-square&color=blue"
     alt="Profile visitor counter"
