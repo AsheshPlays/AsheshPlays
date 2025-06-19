@@ -28,9 +28,9 @@
 </div>
 
 ###
-<div align="center">
+iv align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=your-github-AsheshPlays&label=PROFILE+VIEWS"
+    src="https://komarev.com/ghpvc/?username=AsheshPlays&style=flat-square&color=blue"
     alt="Profile visitor counter"
     height="28"
   />
