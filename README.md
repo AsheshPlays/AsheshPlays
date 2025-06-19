@@ -27,7 +27,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AsheshPlays&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="AsheshPlays's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsheshPlays&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="AsheshPlays's Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsheshPlays&theme=dark&hide_border=true&background=0D1117" alt="AsheshPlays's Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=AsheshPlays&theme=dark&hide_border=true&background=0D1117" alt="AsheshPlays's Streak Stats" />
 </div>
 
 ###
