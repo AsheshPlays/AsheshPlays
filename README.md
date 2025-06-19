@@ -12,10 +12,6 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AsheshPlays&style=flat-square&color=blue" alt="Profile visitor counter" />
-</div>
-
 ###
 
 <div align="center">
@@ -35,7 +31,13 @@
 
 <div align="center">
   <img
+    src="https://komarev.com/ghpvc/?username=AsheshPlays&style=flat-square&color=blue"
+    width="100px"
+    alt="Profile visitor counter"
+  />
+  <img
     src="https://img.shields.io/badge/Game_Developer-Expert-gold?style=for-the-badge&logo=unity"
+    width="100px"
     alt="Game Developer Badge"
   />
 </div>
