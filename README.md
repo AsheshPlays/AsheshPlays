@@ -4,7 +4,9 @@
   </a>
 </div>
 
-### <h3 align="center">My Tech Stack & Tools</h3>
+###
+
+<h3 align="center">My Tech Stack & Tools</h3>
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -16,7 +18,7 @@
   <img src="https://komarev.com/ghpvc/?username=AsheshPlays&style=flat-square&color=blue" alt="Profile visitor counter"/>
 </div>
 
-### 
+###
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/AsheshPlays/AsheshPlays/output/github-snake-dark.svg?v=1" alt="Snake animation" />
@@ -29,4 +31,11 @@
     src="https://github-profile-trophy.vercel.app/?username=AsheshPlays&theme=radical&column=7&no-frame=true&no-bg=true&title=-PullRequest,-Reviews" 
     alt="GitHub Trophies" 
   />
+</div>
+
+###
+
+<h3 align="center">My Custom Achievements</h3>
+<div align="center">
+<img src="https://img.shields.io/badge/Game_Developer-Expert-gold?style=for-the-badge&logo=unity" alt="Game Developer Badge"/>
 </div>
