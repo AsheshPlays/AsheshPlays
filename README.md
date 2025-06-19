@@ -30,7 +30,7 @@
 ###
 <div align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=AsheshPlays&style=flat-square&color=blue"
+    src="https://komarev.com/ghpvc/?username=AsheshPlays&style=flat-square"
     alt="Profile visitor counter"
     height="28"
   />
