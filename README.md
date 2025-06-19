@@ -11,4 +11,11 @@
     <img src="https://skillicons.dev/icons?i=python,django,unity,dotnet,symfony&theme=dark" />
   </a>
 </div>
+
 ###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AsheshPlays/AsheshPlays/output/github-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/assets/images/line.gif" width="100%">
