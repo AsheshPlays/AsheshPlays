@@ -22,7 +22,7 @@
 
 <div align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=AsheshPlays&theme=radical&column=7&no-frame=true&no-bg=true&title=-PullRequests,-Reviews"
+    src="https://github-profile-trophy.vercel.app/?username=AsheshPlays&theme=radical&column=7&no-frame=true&no-bg=true&title=-PullRequest,-Reviews"
     alt="GitHub Trophies"
   />
 </div>
@@ -36,13 +36,13 @@
     height="28"
   />
   <img
-    src="https://img.shields.io/badge/Game_Developer-Expert-gold?style=for-the-badge&logo=unity"
-    alt="Game Developer Badge"
+    src="https://img.shields.io/badge/ASHESH-DEVELOPMENT-red?style=for-the-badge&labelColor=grey"
+    alt="Ashesh Development Badge"
     height="28"
   />
   <img
-    src="https://img.shields.io/badge/ASHESH_DEVELOPMENT-🏆-lightgrey?style=for-the-badge"
-    alt="Ashesh Development Badge"
+    src="https://img.shields.io/badge/Game_Developer-Expert-gold?style=for-the-badge&logo=unity"
+    alt="Game Developer Badge"
     height="28"
   />
 </div>
