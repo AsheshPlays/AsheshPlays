@@ -30,14 +30,14 @@
 ###
 
 <div align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=AsheshPlays&style=flat-square&color=blue"
-    width="100px"
+  <img 
+    src="https://komarev.com/ghpvc/?username=AsheshPlays&style=flat-square&color=blue" 
     alt="Profile visitor counter"
+    height="28"
   />
-  <img
-    src="https://img.shields.io/badge/Game_Developer-Expert-gold?style=for-the-badge&logo=unity"
-    width="100px"
+  <img 
+    src="https://img.shields.io/badge/Game_Developer-Expert-gold?style=for-the-badge&logo=unity" 
     alt="Game Developer Badge"
+    height="28"
   />
 </div>
