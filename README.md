@@ -22,7 +22,7 @@
 
 <div align="center">
   <img
-    src="[https://trophy.ryglcloud.net/?username=AsheshPlays&theme=monokai]&column=7&no-frame=true&no-bg=true&title=-PullRequest,-Reviews"
+    src="(https://trophy.ryglcloud.net/?username=AsheshPlays&theme=radical)&column=7&no-frame=true&no-bg=true&title=-PullRequest,-Reviews"
     alt="GitHub Trophies"
   />
 </div>
