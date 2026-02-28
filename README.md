@@ -32,7 +32,7 @@
   <img
     src="https://komarev.com/ghpvc/?username=AsheshPlays&label=VISITORS&flat-square&color=blue"
     alt="Profile visitor counter"
-    height="28"
+    height="30"
   />
   <img
     src="https://img.shields.io/badge/ASHESH-DEVELOPMENT-red?style=for-the-badge&labelColor=grey"
