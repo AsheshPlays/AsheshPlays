@@ -22,7 +22,7 @@
 
 <div align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=AsheshPlays&theme=radical&column=7&no-frame=true&no-bg=true&title=-PullRequest,-Reviews"
+    src="[https://github-profile-trophy.vercel.app/?username=AsheshPlays](https://github-profile-repo.vercel.app/?username=AsheshPlays&theme=radical&column=7&no-frame=true&no-bg=true&title=-PullRequest,-Reviews"
     alt="GitHub Trophies"
   />
 </div>
