@@ -1,0 +1,23 @@
+# Generated registration exports; retain the root default-name sample.
+*.key
+!/rarreg.key
+rarkey.rar
+
+# Registration backups, staged writes, and local logs.
+*.bak
+*.tmp
+*.log
+
+# Local editor settings and temporary files.
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Operating system metadata.
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# The bundled tools/winrar-keygen/*.exe is intentionally versioned.

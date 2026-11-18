@@ -1,0 +1,11 @@
+# Check Windows scripts out with their expected line endings.
+*.cmd text eol=crlf
+*.ps1 text eol=crlf
+*.psm1 text eol=crlf
+
+# Preserve the UTF-8 sample key exactly, including its CRLF line endings.
+/rarreg.key -text whitespace=cr-at-eol
+
+# Preserve bundled executables without text conversions.
+*.exe binary
+downloads/*.zip binary

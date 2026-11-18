@@ -1,0 +1,62 @@
+/* Additions to the supplied asheshdev.com terminal design. */
+a:focus-visible, button:focus-visible, input:focus-visible {
+  outline: 2px solid var(--cyan);
+  outline-offset: 4px;
+}
+button, input { font: inherit; }
+button { cursor: pointer; }
+.project-open { display: inline-block; margin-top: 1.2rem; color: var(--amber); line-height: 1.5; }
+.project-open:hover, .inline-link:hover { color: var(--cyan); text-decoration: underline; }
+.project-card h2 a:hover { color: var(--amber); }
+.skip-link { position: absolute; left: 1rem; top: -10rem; z-index: 10; padding: .8rem; background: var(--phosphor); color: #07110f; }
+.skip-link:focus { top: 1rem; }
+.tool-heading { font-family: "Press Start 2P", "Courier New", monospace; color: #ff9f1c; font-size: clamp(1.5rem, 3.8vw, 3rem); line-height: 1.5; margin: .6rem 0 1.25rem; text-shadow: 0 0 12px #ff9f1c50; }
+.tool-heading span { display: block; font-size: .55em; letter-spacing: .12em; color: var(--amber); }
+.tool-intro { max-width: 58ch; color: var(--text); line-height: 1.75; }
+.origin-note, .helper-text, .verification-note { color: var(--muted); font-size: .88rem; line-height: 1.7; }
+.inline-link { color: var(--cyan); text-decoration: underline; text-underline-offset: 3px; }
+.tool-status div { grid-template-columns: 7rem 1fr; }
+.tool-status dd { font-size: .84rem; line-height: 1.5; overflow-wrap: anywhere; }
+.install-section { margin-top: clamp(2rem, 5vw, 3.5rem); }
+.command-panel { padding: clamp(1rem, 3vw, 1.5rem); border: 1px solid var(--border); background: #020b08cc; box-shadow: 4px 4px 0 #000; }
+.command-options { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 1.2rem; align-items: end; }
+.name-field label { display: block; margin-bottom: .65rem; color: var(--amber); font-size: .9rem; }
+.name-field input { width: 100%; padding: .85rem; border: 1px solid var(--border); border-radius: 0; background: #081b10; color: var(--text); }
+.name-field input::placeholder { color: #95caa0b8; font-size: .84rem; }
+.mode-switch { display: flex; gap: .5rem; }
+.mode-switch button, .copy-command { padding: .82rem 1rem; border: 1px solid var(--border); border-radius: 0; background: #081b10; color: var(--phosphor); box-shadow: 3px 3px 0 #000; }
+.mode-switch button[aria-pressed="true"] { background: var(--phosphor); color: #001d09; }
+.mode-switch button:hover, .copy-command:hover { border-color: var(--cyan); }
+.command-caption { display: flex; justify-content: space-between; align-items: center; gap: 1rem; margin-top: 1.5rem; }
+.command-caption p { color: var(--cyan); font-size: .86rem; margin: 0; }
+.command-code { margin: .9rem 0 .8rem; padding: 1.2rem; border: 1px dashed #367a53; background: #0009; color: var(--phosphor); overflow-x: auto; max-width: 100%; line-height: 1.7; }
+.command-code code { font-family: inherit; font-size: .9rem; white-space: pre; }
+.copy-status { min-height: 1.5em; color: var(--amber); font-size: .86rem; margin: 0; }
+.workflow-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin-top: 2.5rem; }
+.workflow-panel { padding: 1.35rem; border: 1px solid var(--border); background: #0005; box-shadow: 4px 4px 0 #000; }
+.workflow-panel h2 { margin: 0 0 1rem; font-size: 1.05rem; color: var(--amber); }
+.workflow-panel ol { padding-left: 1.5rem; margin-bottom: 0; }
+.workflow-panel li { padding: 0 0 .85rem .25rem; line-height: 1.7; color: var(--text); }
+.workflow-panel p { color: var(--text); line-height: 1.75; }
+.workflow-panel .command-row { margin-top: 1.4rem; }
+.tool-details { margin-top: 2.5rem; }
+.tool-details .project-card p { line-height: 1.75; }
+.tool-footer { display: flex; justify-content: space-between; gap: 1rem; flex-wrap: wrap; border-top: 1px dashed var(--border); padding-top: 1.3rem; margin-top: 2.5rem; color: var(--muted); font-size: .84rem; line-height: 1.8; }
+.tool-footer p { margin: 0; }
+@media (max-width: 800px) {
+  .command-options, .workflow-grid { grid-template-columns: 1fr; }
+  .mode-switch button { flex: 1; }
+  .tool-heading { font-size: clamp(1.55rem, 6vw, 2.6rem); }
+}
+@media (max-width: 520px) {
+  .tool-heading { font-size: clamp(1.15rem, 7.5vw, 1.9rem); }
+  .command-caption { align-items: flex-start; }
+  .copy-command { padding: .65rem .75rem; }
+  .command-code { padding: .8rem; }
+  .workflow-panel { padding: 1rem; }
+  .tool-status div { grid-template-columns: 6rem 1fr; }
+}
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  .glitch-name::before, .glitch-name::after { animation: none; }
+}

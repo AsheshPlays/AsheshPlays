@@ -1,0 +1,31 @@
+WinRAR Activator - Ashesh Development
+
+Copyright (c) 2026 Erich Alfred Bossert / Ashesh Development
+for modifications and original additions in this distribution.
+
+Based on NaeemBolchhi's WinRAR Activator:
+https://github.com/NaeemBolchhi/WinRAR-Activator
+The upstream distribution includes GNU General Public License version 3.
+Upstream authors retain copyright in their respective contributions.
+
+Modified on 2026-11-18 for Erich Alfred Bossert / Ashesh Development:
+custom registration data and branding, local launching, backup handling,
+error reporting, isolated smoke checks, and documentation. Further changes
+add runtime name selection and the fixed organization "🄯 Ashesh Development",
+UTF-8 registration generation, and checksum verification of the bundled tool.
+The online launcher adds a pinned package download, integrity checks, argument
+forwarding, and temporary-file cleanup.
+The Pages copy is maintained under AsheshPlays/AsheshPlays at
+pages/winrar-activator, with a local runtime package and a terminal-style page.
+
+License: GNU General Public License version 3 (GPL-3.0-only).
+Use, modification, and redistribution are permitted under its terms.
+See LICENSE for the full permissions, conditions, and warranty disclaimer.
+
+This notice supplements LICENSE and does not add license restrictions.
+The repository license does not grant a license to WinRAR itself.
+
+Bundled third-party component: bitcookies/winrar-keygen v4.3.0 (Windows x86).
+Copyright (c) 2021 Bitcookies. Distributed under the MIT license; see
+tools/winrar-keygen/LICENSE and tools/winrar-keygen/README.md for the original
+license, source location, and pinned executable checksum.
